@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Syllabus: Heritage Spanish Speakers</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f7f9fa;
+        }
+        h1 {
+            color: #1a365d;
+            text-align: center;
+            border-bottom: 3px solid #2b6cb0;
+            padding-bottom: 10px;
+            margin-bottom: 5px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #4a5568;
+            font-size: 1.1rem;
+            margin-top: 0;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        .course-description {
+            background-color: #fff;
+            border-left: 4px solid #2b6cb0;
+            padding: 15px 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .week-card {
+            background-color: #fff;
+            border-radius: 6px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+            padding: 20px;
+            border: 1px solid #e2e8f0;
+        }
+        .week-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #edf2f7;
+            padding-bottom: 8px;
+            margin-bottom: 15px;
+        }
+        .week-title {
+            color: #2b6cb0;
+            font-size: 1.3rem;
+            font-weight: bold;
+            margin: 0;
+        }
+        .theme-badge {
+            background-color: #ebf8ff;
+            color: #2b6cb0;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+        .section-title {
+            font-weight: bold;
+            color: #4a5568;
+            margin-top: 10px;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            letter-spacing: 0.5px;
+        }
+        ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .highlight {
+            color: #c53030;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Spanish for Heritage Speakers (Foundational Level)</h1>
+    <p class="subtitle">A 14-Week Academic Literacy & Linguistics Curriculum for Community College Students</p>
+
+    <div class="course-description">
+        <strong>Course Overview:</strong> This course is tailored for students who grew up hearing or speaking Spanish at home but have had little to no formal academic training in the language. The curriculum focuses on expanding vocabulary, mastering spelling and written accents, distinguishing between formal and informal registers, and celebrating bilingual identity while eliminating academic insecurities.
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 1: Identity, Language, & Belonging</h2>
+            <span class="theme-badge">Sociolinguistics</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>Introduction to Heritage Linguistics:</strong> What is a "heritage speaker"? Combating linguistic insecurity (the "I don't speak good Spanish" myth).</li>
+            <li><strong>Linguistic Variation:</strong> Honoring regional dialects and family vernaculars as valid forms of communication.</li>
+            <li><strong>Diagnostic Assessment:</strong> Baseline evaluation of reading comprehension and intuitive writing.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 2: Mapping Sound to Print (The Alphabet & Phonetics)</h2>
+            <span class="theme-badge">Orthography</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>The Spanish Sound System:</strong> Connecting the sounds students know implicitly to written letters.</li>
+            <li><strong>Problematic Letter Pairs:</strong> Mastering <em>B vs. V</em>, and the silent <em>H</em>.</li>
+            <li><strong>The Vowel System:</strong> Pure Spanish vowels vs. English diphthongs (avoiding English vowel sounds in writing).</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 3: Syllables & The Invisible Stress</h2>
+            <span class="theme-badge">Phonetics & Accents</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>Syllable Division (Silabeo):</strong> How to break words down into written syllables.</li>
+            <li><strong>Strong and Weak Vowels:</strong> Understanding Diphthongs (diptongos) and Hiatus (hiatos).</li>
+            <li><strong>The Tonic Syllable (Sílaba tónica):</strong> Locating where the voice naturally rises in a word without looking at written accents.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 4: Mastering Written Accents (Tildes) - Part 1</h2>
+            <span class="theme-badge">Grammar & Orthography</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>The Classification of Words:</strong> Agudas, Graves (Llanas), and Esdrújulas.</li>
+            <li><strong>The Rules of the Accent Mark:</strong> When to physically write a <em>tilde</em> based on the ending letter (N, S, or Vowel).</li>
+            <li><strong>Application Practice:</strong> Adding accents to familiar spoken words.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 5: Written Accents Part 2 & The Written Word</h2>
+            <span class="theme-badge">Literacy Skills</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>Diacritical Accents (Acento diacrítico):</strong> Distinguishing homonyms via accents (e.g., <em>tú</em> vs. <em>tu</em>, <em>él</em> vs. <em>el</em>, <em>sí</em> vs. <em>si</em>).</li>
+            <li><strong>Introduction to Reading Strategies:</strong> Reading short contemporary essays/blogs by Latinx authors to analyze sentence structure.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 6: Navigating Language Contact (Spanglish & Borrowings)</h2>
+            <span class="theme-badge">Vocabulary & Culture</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>Code-switching vs. Borrowing:</strong> The mechanics of Spanglish and its cultural value.</li>
+            <li><strong>Calques and Loanwords:</strong> Identifying and adapting anglicisms (e.g., <em>parquear</em>, <em>chatear</em>, <em>aseguranza</em>).</li>
+            <li><strong>Linguistic Contexts:</strong> When to use informal code-switching vs. when standard professional Spanish is expected.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 7: The "Tricky" Consonants & Midterm Review</h2>
+            <span class="theme-badge">Orthography & Assessment</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>The Seseo and Phonetic Overlap:</strong> Mastering <em>S, C, and Z</em> for Spanish speakers from the Americas.</li>
+            <li><strong>The Double Letters:</strong> Correct usage of <em>G vs. J</em>, and <em>LL vs. Y</em>.</li>
+            <li><strong>Midterm Exam / Portfolio Showcase:</strong> Assessment of written accent mastery and phonetic spelling.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 8: Expanding Vocabulary & Formal Registers</h2>
+            <span class="theme-badge">Formal Writing</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>False Cognates (Falsos amigos):</strong> Avoiding common pitfalls (e.g., <em>embarazada</em> does not mean embarrassed; <em>introducir</em> vs. <em>presentar</em>).</li>
+            <li><strong>Synonym Expansion:</strong> Replacing overused words (like <em>hacer</em>, <em>tener</em>, <em>cosa</em>) with precise academic vocabulary.</li>
+            <li><strong>Register Shift:</strong> Moving text from text-message shorthand to professional/academic phrasing.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 9: Structural Foundations (Nouns, Gender, & Agreements)</h2>
+            <span class="theme-badge">Grammar Mechanics</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>Tricky Gender Rules:</strong> Nouns ending in <em>-ma</em> (el problema, el sistema) and <em>-ción/-dad</em> (la nación, la comunidad).</li>
+            <li><strong>Noun-Adjective Agreement:</strong> Correcting mismatched pluralization and gender conventions in extended writing.</li>
+            <li><strong>The Personal "A":</strong> Restoring the structural "a" when referring to people, which is often dropped in informal speech.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 10: Taming the Past Tense (Preterite vs. Imperfect)</h2>
+            <span class="theme-badge">Verb Mechanics</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>The Two Past Tenses:</strong> Untangling <em>Pretérito Indefinido</em> (completed actions) vs. <em>Pretérito Imperfecto</em> (descriptions/habits) in written storytelling.</li>
+            <li><strong>Orthographic Shifts in Verbs:</strong> Spelled changes in the past tense (e.g., <em>buscar &rarr; busqué</em>, <em>llegar &rarr; llegué</em>).</li>
+            <li><strong>Writing Focus:</strong> Composing a narrative about a childhood or family memory.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 11: Introduction to the Subjunctive Mood</h2>
+            <span class="theme-badge">Advanced Grammar</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>Demystifying the Subjunctive:</strong> Recognizing how students already use the subjunctive orally to express wishes, doubts, and recommendations.</li>
+            <li><strong>Formal Spelling of the Present Subjunctive:</strong> Trigger phrases (e.g., <em>Quiero que...</em>, <em>Es importante que...</em>).</li>
+            <li><strong>Common Errors:</strong> Eradicating non-standard spoken structures (e.g., correcting <em>"haiga"</em> to <em>"haya"</em>).</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 12: Professional Communication & Digital Literacy</h2>
+            <span class="theme-badge">Practical Application</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>Formal Email Etiquette:</strong> Openings, professional closings (<em>Atentamente, Cordialmente</em>), and proper use of <em>Usted</em>.</li>
+            <li><strong>Accents on Digital Keyboards:</strong> How to configure and use Spanish accent marks and the <em>ñ</em> on smartphones and computers.</li>
+            <li><strong>Translation Basics:</strong> The ethics and challenges of acting as informal family interpreters.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 13: Introduction to Textual Analysis & Essay Structure</h2>
+            <span class="theme-badge">Composition</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>Transition Words (Conectores lógicos):</strong> Using words like <em>sin embargo, por lo tanto, además, en resumen</em> to link complex ideas.</li>
+            <li><strong>Structuring an Argument:</strong> Writing a clear thesis sentence and organizing short introductory, body, and concluding paragraphs.</li>
+            <li><strong>Peer Review Workshop:</strong> Collaboratively editing spelling and accent marks in a short opinion essay.</li>
+        </ul>
+    </div>
+
+    <div class="week-card">
+        <div class="week-header">
+            <h2 class="week-title">Week 14: Final Presentations & Linguistic Pride</h2>
+            <span class="theme-badge">Conclusion</span>
+        </div>
+        <div class="section-title">Topics & Subtopics:</div>
+        <ul>
+            <li><strong>Final Oral Presentation:</strong> Students present an investigation into their family's country of origin, community history, or a bilingual cultural phenomenon.</li>
+            <li><strong>Course Reflections:</strong> Embracing fully bilingual literacy as a superpower in academic and corporate spaces.</li>
+            <li><strong>Final Exam/Portfolio Submission.</strong></li>
+        </ul>
+    </div>
+
+</body>
+</html>
